@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Sean OBrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobrien-banyan&count_private=true&show_icons=true&theme=radical)
+![Sean OBrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobrien-banyan&count_private=true&show_icons=true&theme=radical&hide=prs)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobrien-banyan&theme=dark&langs_count=10&layout=compact)
